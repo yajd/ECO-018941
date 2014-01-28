@@ -1,0 +1,21 @@
+rev2:::
+*goal:
+-fix pn within run sheet
+
+*what happened
+-eco rejected to me for incorrect pn within document (\\sjdc01\data\SJWGuide\Scion\ENG & MATERIALS\ya\Auto\RE ECO-018941 is rejected .msg)
+
+*did:
+-in run sheet doc changed pn of 21075930 to 22050917, saved and saved as pdf
+-attached new docs to 22050917 and emailed cissy asking if everything ok
+
+**wip
+--cissy told me i need to use template and asked ben to share with me, i emailed him its urgent and plz get to me template asap
+--ben sent me template and told me to request ziwen to arrange the template
+--i did a draft and emailed drz and tt asking them to reivew
+--simultaenously i emailed cissy asking her if my draft looks ok for the template
+--she said shes busy
+--tt sent me back something updated
+--looking at it now
+--made the changes tt sent, it was just updated email, attached it to eco, emailed ben saying im ready to submit and if she can prelim review of template
+--asked ben for review, asked cissy for review, no one revieing template so i just submitted it
