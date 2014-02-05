@@ -1,21 +1,28 @@
-rev2:::
+rev3:::
 *goal:
--fix pn within run sheet
+-Add 22042094 to ECO, update attachment with new file Bart sent
+--decided on 1/30/14 to do this in new eco (ECO-020427)
+-Add 22026872 to ECO, it will be rev001, drawing update
+--decided on 1/30/14 to do this in new eco (ECO-020427)
+-Update drawing on 22004490, trench removal
+
 
 *what happened
--eco rejected to me for incorrect pn within document (\\sjdc01\data\SJWGuide\Scion\ENG & MATERIALS\ya\Auto\RE ECO-018941 is rejected .msg)
+-1/28 bart sends message to update spec doumcnet, file attached in email. He also asked Dave for some changes to drawing.
+-meeting with dave and bart at bars cube to discuss this stuff on 1/28
 
 *did:
--in run sheet doc changed pn of 21075930 to 22050917, saved and saved as pdf
--attached new docs to 22050917 and emailed cissy asking if everything ok
+
 
 **wip
---cissy told me i need to use template and asked ben to share with me, i emailed him its urgent and plz get to me template asap
---ben sent me template and told me to request ziwen to arrange the template
---i did a draft and emailed drz and tt asking them to reivew
---simultaenously i emailed cissy asking her if my draft looks ok for the template
---she said shes busy
---tt sent me back something updated
---looking at it now
---made the changes tt sent, it was just updated email, attached it to eco, emailed ben saying im ready to submit and if she can prelim review of template
---asked ben for review, asked cissy for review, no one revieing template so i just submitted it
+-Dave is working on drawings
+-I couldn't add 22042094 or 22026872 to ECO so emailed Cissy asking for help
+-Cissy said I can't add only she can, so I told her what i needed to do
+-cissy says no one can add at that point, only options are 1) do rev 7, 2) reject rev6 and submit again...... so i emailed bart asking him what he prefers.
+-bart wants rev6 rejection method, cissy was cc'ed so waiting to hear from her, if she doesnt say antyhing by 1/30 noon, i should send email
+-so got back and cissy says 3rd option and this is what we'll do"
+---For the new ECO, I realized I can avoid making 22004490  rev7 by not adding it correct?
+---So to new ECO i'll just add the 2 new part numbers?
+---And for 22004490 we'll just do the drawing update on Mon?
+-so just waiting for 22004490 drawing update, when dave sends it, send it to cissy, co is on "validating work" till then
+-2/5/14 dave sent it today so it looks like cissy is taking care of it
